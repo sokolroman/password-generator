@@ -29,6 +29,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+![Screenshot](Screen Shot 2022-08-04 at 22.24.23.png)
 
 ## Mock-Up
 
