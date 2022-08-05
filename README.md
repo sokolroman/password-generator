@@ -33,8 +33,9 @@ THEN the password is either displayed in an alert or written to the page
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
+![Alt text](Screen Shot 2022-08-04 at 22.24.23.png?raw=true "Title")
 
-<img>(Screen Shot 2022-08-04 at 22.24.23.png)</img>
+
  
 ## Review
 
