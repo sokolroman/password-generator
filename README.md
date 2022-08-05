@@ -40,7 +40,7 @@ The following image shows the web application's appearance and functionality:
  
 ## Review
 
-* The URL of the deployed application.
+* https://sokolroman.github.io/shiny-goggles/Develop/index.html
 
 * https://github.com/sokolroman/shiny-goggles/
 
