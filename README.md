@@ -40,9 +40,9 @@ The following image shows the web application's appearance and functionality:
  
 ## Review
 
-* https://sokolroman.github.io/shiny-goggles/Develop/index.html
+* https://sokolroman.github.io/password-generator/Develop/index.html
 
-* https://github.com/sokolroman/shiny-goggles/
+* https://github.com/sokolroman/password-generator/
 
 - - -
 2022 Roman Sokol
