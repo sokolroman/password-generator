@@ -1,48 +1,45 @@
-# JavaScript: Password Generator
+# Express.js: Note Taker
 
-## Web app used to generate random passwords based on criteria a user selected. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. 
+## Web app used to store notes based on user imput. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code and using express.js for server operations. 
 
 ## User Story
 
 ```
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
+AS A small business owner
+I WANT to be able to write and save notes
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
 ## Acceptance Criteria
 
 ```
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+GIVEN a note-taking application
+WHEN I open the Note Taker
+THEN I am presented with a landing page with a link to a notes page
+WHEN I click on the link to the notes page
+THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
+WHEN I enter a new note title and the note’s text
+THEN a Save icon appears in the navigation at the top of the page
+WHEN I click on the Save icon
+THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes
+WHEN I click on an existing note in the list in the left-hand column
+THEN that note appears in the right-hand column
+WHEN I click on the Write icon in the navigation at the top of the page
+THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
-## Mock-Up
+## Preview
 
 The following image shows the web application's appearance and functionality:
 
-<img src="Screen Shot 2022-08-04 at 22.24.23.png" alt="Alt text" title="Optional title">
+<img src="Screen Shot 2022-08-04 at 22.24.23.png" alt="NOTES_SCREENSHOT" title="Notes">
 
 
  
-## Review
+## LIVE using glitch
 
-* https://sokolroman.github.io/password-generator/Develop/index.html
+* https://scratched-foam-maiasaura.glitch.me/notes
 
-* https://github.com/sokolroman/password-generator/
 
 - - -
 2022 Roman Sokol
